@@ -85,8 +85,8 @@ The models were rigorously evaluated based on metrics such as Accuracy, Sensitiv
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
-   cd <repo-folder>
+   git clone https://github.com/JindalChaitanya/Alzheimer-Guardian.git
+   cd Alzheimer-Guardian
    ```
 
 2. **Install dependencies:**
